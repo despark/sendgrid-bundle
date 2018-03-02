@@ -1,0 +1,4 @@
+send_grid:
+    api_key: 'foo%bar'
+    host: 'https://localhost'
+    curl: ['foo','bar']
